@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RunLoopTestApp</string>
+    <string name="info_text">Info</string>
+    <string name="news_text">News</string>
+    <string name="no_items_text">No items!</string>
+    <string name="business_text">business</string>
+    <string name="selected_news_title">Selected news title</string>
+    <string name="my_name_text">Paul Tikhonov</string>
+    <string name="network_error">Network error. Try again please!</string>
+    <string name="uknown_error">Uknown error</string>
+    <string name="loading_text">Loading...</string>
+    <string name="error_title">Error</string>
+
+    <string-array name="categories">
+        <item>Business News</item>
+        <item>Entertainment/Environment</item>
+    </string-array>
+
+</resources>
